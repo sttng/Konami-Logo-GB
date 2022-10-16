@@ -31,8 +31,13 @@ The line animation (whether it's purple for Super Nintendo/Super Famicom, green 
 
 ## Music/Sounds: 
 
-An ascending/descending bell-like synth sound as the color appears (which sounds different depending on the game/system); otherwise silent. There are unconfirmed sources claiming Tomoya Tomita and Kinuyo Yamashita did desing the Konami logo jingle sound.
+An ascending/descending bell-like synth sound as the color appears (which sounds different depending on the game/system); otherwise silent. 
 
+* Sega Genesis: The music is done on an electric piano.
+* Super Nintendo Entertainment System: The theme is done using synth chimes.
+* NEC PC Engine/TurboGrafx-16: The theme is done on a synth-organ.
+
+There are unconfirmed sources claiming Tomoya Tomita and Kinuyo Yamashita did desing the Konami logo jingle sound.
 
 ## Availability: 
 
