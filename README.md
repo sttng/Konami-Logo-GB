@@ -41,5 +41,5 @@ There are unconfirmed sources claiming Tomoya Tomita and Kinuyo Yamashita compos
 
 ## Availability: 
 
-Seen on all Konami releases for the SNES and Sega Genesis/Mega Drive (and the Sega CD/Mega CD add-on), as well as some for the NEC TurboGrafx 16/PC Engine. The logo is preserved on Castlevania: The Dracula X Chronicles for the PSP and Wii Virtual Console versions of Konami releases as well as the Anniversary Collections for both.Contra and Castlevania on PlayStation 4, Xbox One, and Nintendo Switch.
+Seen on all Konami releases for the SNES and Sega Genesis/Mega Drive (and the Sega CD/Mega CD add-on), as well as some for the NEC TurboGrafx 16/PC Engine. The logo is preserved on Castlevania: The Dracula X Chronicles for the PSP and Wii Virtual Console versions of Konami releases as well as the Anniversary Collections for both Contra and Castlevania on PlayStation 4, Xbox One, and Nintendo Switch.
 
