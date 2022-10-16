@@ -7,7 +7,8 @@ Released under the [MIT license](https://opensource.org/licenses/MIT).
 
 # Details:
 
-This Gameboy version resembles the 2nd generation Konami logo in use between 1990-1996.
+This Gameboy version resembles the 2nd generation Konami logo in use between 1990-1996. 
+https://avid.miraheze.org/wiki/Konami
 
 
 ## Nicknames: 
