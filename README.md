@@ -37,7 +37,7 @@ An ascending/descending bell-like synth sound as the color appears (which sounds
 * Super Nintendo Entertainment System: The theme is done using synth chimes.
 * NEC PC Engine/TurboGrafx-16: The theme is done on a synth-organ.
 
-There are unconfirmed sources claiming Tomoya Tomita and Kinuyo Yamashita did desing the Konami logo jingle sound.
+There are unconfirmed sources claiming Tomoya Tomita and Kinuyo Yamashita composed the Konami logo jingle sound.
 
 ## Availability: 
 
