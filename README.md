@@ -17,7 +17,7 @@ https://avid.miraheze.org/wiki/Konami
 
 ## Logo: 
 
-Against a black background, a spark draws a laser line at the top of the screen. It moves downward until a dark blue outline of the Konami logo from before is shown. Colors fill the Konami logo (the top ribbon orange, the bottom ribbon red, and "KONAMI" silver) and textures as the background fades to white.
+Against a black background, a spark draws a laser line at the top of the screen. It moves downward until a dark outline of the Konami logo is shown. Colors fill the Konami logo (the top ribbon orange, the bottom ribbon red, and "KONAMI" silver) and textures as the background fades to white.
 
 ## Variants:
 
