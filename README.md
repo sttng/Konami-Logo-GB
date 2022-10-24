@@ -5,7 +5,7 @@ Released under the [MIT license](https://opensource.org/licenses/MIT).
 
 ## Credits
 
-- Thanks to Gold_Act297 (from reddit) for finding a way to animate the laser line and spark in a loop !
+- Thanks to reddit user *Gold_Act297* for finding a way to animate the laser line and spark in a loop !
 
 ![Konami Logo GB](https://raw.githubusercontent.com/sttng/Konami-Logo-GB/main/Konami-Logo-GB.webp)
 
